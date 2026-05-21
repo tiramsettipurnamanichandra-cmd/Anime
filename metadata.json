@@ -1,0 +1,6 @@
+{
+  "name": "Anime Scout",
+  "description": "Real-time anime site scanner, security catalog & trust intelligence tool with domain verifier and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

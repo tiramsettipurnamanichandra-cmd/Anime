@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Security Radar Crest Ring -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#1E2F40"
+        android:fillColor="#00000000"
+        android:pathData="M 54,16 A 38,38 0 1,1 53.9,16" />
+
+    <!-- Cyber Shield Outer Shell -->
+    <path
+        android:strokeWidth="3.5"
+        android:strokeColor="#00E5FF"
+        android:fillColor="#1500E5FF"
+        android:pathData="M 54,24 L 78,32 L 78,60 C 78,74 64,84 54,88 C 44,84 30,74 30,60 L 30,32 Z" />
+
+    <!-- Inside Glowing Pulse Lines -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#D500F9"
+        android:fillColor="#00000000"
+        android:pathData="M 54,32 L 72,38 L 72,58 C 72,68 62,76 54,79 C 46,76 36,68 36,58 L 36,38 Z" />
+
+    <!-- Scanner Radar Crosshair Nodes -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M51,40 h6 v4 h-6 z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M51,68 h6 v4 h-6 z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M37,51 h4 v6 h-4 z" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M67,51 h4 v6 h-4 z" />
+
+    <!-- Central Glowing Core Beacon -->
+    <path
+        android:fillColor="#D500F9"
+        android:pathData="M 54,48 A 6,6 0 1,1 53.9,48" />
+
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 54,50 A 4,4 0 1,1 53.9,50" />
+    <!-- Center Point -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,52 A 2,2 0 1,1 53.9,52" />
+</vector>
